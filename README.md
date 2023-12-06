@@ -1,4 +1,4 @@
-# Pre-Advising POrtal
+# Pre-Advising Portal
 
 <!-- ## Live link of the project is [FamiPlasma](http://localhost:3000/) -->
 
@@ -7,7 +7,7 @@
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/lamisaRitu19/pre-advising-portal.git
+git clone https://github.com/lamisaRitu19/pre-advising-portal-react.git
 ```
 
 Install the dependencies:
